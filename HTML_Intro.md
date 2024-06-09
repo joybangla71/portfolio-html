@@ -12,3 +12,18 @@
     - Editor: VS Code
     - Broswer: Firefox
     - Version control: Git & Github
+    - VS Code Extensions: Live server and Prettier Code Formatter 
+
+6. Basic structure of HTML
+    - head and body
+    - opening and closing tags
+    - <!DOCTYPE html>: a declaration, not a tag
+      <html lang="en">
+      <head>
+        <title></title>
+      </head>
+      <body><body>
+      </html>
+
+7. Basic tags, styling, debugging
+8. Attributes, elements, contents
