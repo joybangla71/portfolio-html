@@ -49,4 +49,30 @@
 12. Horizontal rule
     - ```<hr />``` (also an empty tag: creates a horizontal line under the preceeding text/tag)     
 
-13. Semantic HTML
+13. Semantic vs Non-Semantic HTML
+
+    - Non-semantic tags: div, span etc.
+```<div>
+        <!-- divide the page -->
+        </div>
+    ```
+
+    - Semantic tags: header, footer, main, form, table etc.
+```
+    <header>
+    <h1></h1>
+    </header>
+    ```
+
+14. Text formatting tags
+
+
+15. Lists
+
+16. Links
+
+17. Tables
+
+18. Forms
+
+19. Deployment
