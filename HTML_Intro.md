@@ -52,15 +52,17 @@
 13. Semantic vs Non-Semantic HTML
 
     - Non-semantic tags: div, span etc.
-        ```<div>
-                <!-- divide the page -->
-                </div>
+        ```
+        <div>
+            <!-- divide the page -->
+        </div>
         ```
 
     - Semantic tags: header, footer, main, form, table etc.
-        ```<header>
+        ```
+        <header>
             <h1></h1>
-            </header>
+        </header>
         ```
 
 14. Text formatting tags
