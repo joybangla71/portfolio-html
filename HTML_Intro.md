@@ -55,6 +55,8 @@
         ```
         <div>
             <!-- divide the page -->
+            <h1></h1>
+            <p></p>
         </div>
         ```
 
@@ -64,6 +66,7 @@
             <h1></h1>
         </header>
         ```
+    - Best practice is to use the semantic tags as much as possible
 
 14. Text formatting tags
 
