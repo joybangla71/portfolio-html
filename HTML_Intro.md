@@ -69,9 +69,47 @@
     - Best practice is to use the semantic tags as much as possible
 
 14. Text formatting tags
-
+    - bold text ```<strong>TEXT</strong>```
+    - italic text ```<em>TEXT</em>```
+    - strike through ```<del>TEXT</del>```
+    - highlight ```<mark>TEXT</mark>```
+    - superscript ```(a + b)<sup>2</sup>```
+    - subscript ```H<sub>TEXT</sub>O```
 
 15. Lists
+    - ordered list
+    ```
+
+    <ol type>
+    
+        <li>Item 1</li>
+        <li>Item 1</li>
+
+    </ol>
+
+    ```
+    - unordered list
+    ```
+
+    <ul type="circle">
+    
+        <li>Item 1</li>
+        <li>Item 1</li>
+
+    </ul>
+
+    ```
+
+    - definition list
+    ```
+    <dl>
+    <dt>Title</dt>
+    <dd>Description</dd>
+    
+    </dl>
+
+
+    ```
 
 16. Links
 
